@@ -79,15 +79,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    MyFitnessBuddy
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.codysherrod.io">CodySherrod.io</a>
+                    <a href="https://github.com/csherrod">Github</a>
+                    <a href="https://linkedin.com/in/cody-sherrod">LinkedIn</a>
                 </div>
             </div>
         </div>
